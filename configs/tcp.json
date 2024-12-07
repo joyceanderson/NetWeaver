@@ -1,0 +1,1 @@
+{"src_ip": "192.168.192.113", "src_port": "54786", "dst_ip": "192.168.194.218", "dst_port": "80 (HTTP)", "flags": "SYN (S)", "seq_num": 0, "ack_num": 0, "window_size": 8192, "payload": "jhg"}
